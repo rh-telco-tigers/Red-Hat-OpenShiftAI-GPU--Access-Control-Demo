@@ -34,5 +34,7 @@ python xxx-cleanup.py
 ## Contribution
 Contributions to this project are welcome. You can enhance scripts, add automation features, or provide feedback for further improvements.
 
+## Disclaimer
+This project is intended solely for demonstration purposes and should not be used in production environments. It illustrates a workaround for managing GPU access within OpenShift clusters, but has not been tested against all potential production scenarios. Using this solution in a production environment may lead to issues not covered by this demonstration, including potential security vulnerabilities and performance concerns. Please use this project for educational and experimental purposes only.
 
 
